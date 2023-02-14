@@ -1,6 +1,9 @@
-# Hi, I am Gauri! Great to see you here!👋
+<h1 align="center">
+  Hi, I am Gauri! Great to see you here!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-I am Gauri Maheshwari, currently working at [WeMakeDevs](https://wemakedevs.org/) as a Technical Writer, and as a freelance Frontend Web Developer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas.<br><br>
+I am Gauri Maheshwari, currently working at [WeMakeDevs](https://wemakedevs.org/) as a Technical Writer. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas.<br><br>
 To find out more about me, feel free to connect with me here:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/gaurii09)
@@ -31,9 +34,6 @@ To find out more about me, feel free to connect with me here:
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <br> <br>
 
 [![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph) 
