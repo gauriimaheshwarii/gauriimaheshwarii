@@ -1,3 +1,7 @@
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+</div>
+
 <h1 align="center">
   Hi, I am Gauri! Great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -10,8 +14,6 @@ To find out more about me, feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauri-maheshwari-786277224)](https://www.linkedin.com/in/gauri-maheshwari-786277224)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gaurimaheshwari009@gmail.com)](mailto:gaurimaheshwari009@gmail.com)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-1F51FF?style=flat&labelColor=1F51FF&logo=Hashnode&link=https://gaurimaheshwari.hashnode.dev/)](https://gaurimaheshwari.hashnode.dev/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=googlechrome&logoColor=white&link=https://gauriimaheshwarii.github.io/)](https://gauriimaheshwarii.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/incenndia/)](https://instagram.com/incenndia)
 
 ## ⚡Technologies <br> 
 
@@ -33,17 +35,10 @@ To find out more about me, feel free to connect with me here:
 ### Libraries & Framework <br>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 <br> <br>
 
-[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <br>
-
-## 📈GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauriimaheshwarii&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauriimaheshwarii&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauriimaheshwarii&&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="gauriimaheshwarii"/> </p>
 
 ### [Connect with me 💬](https://bio.link/gaurimaheshwari) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauriimaheshwarii.gauriimaheshwarii)
