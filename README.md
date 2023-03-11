@@ -35,10 +35,10 @@ To find out more about me, feel free to connect with me here:
 ### Libraries & Framework <br>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-<br> <br>
-
-[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <br>
+
+<!-- [![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<br> -->
 
 ### [Connect with me 💬](https://bio.link/gaurimaheshwari) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauriimaheshwarii.gauriimaheshwarii)
