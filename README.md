@@ -42,3 +42,9 @@ To find out more about me, feel free to connect with me here:
 
 ### [Connect with me 💬](https://bio.link/gaurimaheshwari) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauriimaheshwarii.gauriimaheshwarii)
+
+## 🐍 Contribution Snake <br>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gauriimaheshwarii/gauriimaheshwarii/output/github-contribution-grid-snake.svg" />
+  <br>
+</div>
