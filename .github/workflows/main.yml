@@ -1,18 +1,18 @@
-name: generate snake
+name: Generate snake
 permissions: 
   contents: write
 
 on:
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "0 */12 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
   
   # run on every push on the main branch
-  # push:
-  #   branches:
-  #   - main
+  push:
+    branches:
+    - main
     
 jobs:
   build:
@@ -20,37 +20,42 @@ jobs:
     # timeout-minutes: 10
     
     steps:
-      - uses: actions/checkout@v2
+      - name: Clone repo
+        uses: actions/checkout@v3
       
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - id: snake-gif
+      - name: Generate the snake files in './dist/'
+        id: snake-gif
         uses: Platane/snk@v3.2.0            
         with:
-          github_user_name: gauriimaheshwarii
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          # outputs: |
-          #   dist/github-contribution-grid-snake.svg
-          #   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}    # gauriimaheshwarii
+          # gif_out_path: dist/github-contribution-grid-snake.gif
+          # svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         # env:
         #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      - name: Show build status
+        run: git status
           
       # Push the changes
-      - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+      # - uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: main
+      #     force: true
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
