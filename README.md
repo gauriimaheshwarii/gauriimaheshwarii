@@ -1,3 +1,26 @@
+## <div align="left">Hi there! I am Gauri👋</div>  
+  
+- I have worked as a Google Summer of Code'23 Mentee with the FreeCAD organization.
+- I was also a speaker at KubeDay Singapore 2023.
+- I am currently a Junior pursuing my Bachelor's from Indira Gandhi Delhi Technical University for Women, India.
+- I enjoy building software, technical content, and communities!
+
+## Connect with me  
+<div align="left">
+<a href="https://twitter.com/gaurii09" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white alt=Twitter />
+</a>
+
+<a href="https://www.linkedin.com/in/gaurimaheshwari/" target="_blank">
+<img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white alt=LinkedIn />
+</a> 
+</div> 
+
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauriimaheshwarii.gauriimaheshwarii)
+
+<!--
 <div>
 <img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
 </div>
@@ -37,8 +60,8 @@ To find out more about me, feel free to connect with me here:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
 <br>
 
-<!-- [![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-<br> -->
+[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauriimaheshwarii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<br>
 
 ### [Connect with me 💬](https://bio.link/gaurimaheshwari) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauriimaheshwarii.gauriimaheshwarii)
@@ -48,3 +71,4 @@ To find out more about me, feel free to connect with me here:
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gauriimaheshwarii/gauriimaheshwarii/output/github-contribution-grid-snake.svg" />
   <br>
 </div>
+-->
